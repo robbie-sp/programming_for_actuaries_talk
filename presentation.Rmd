@@ -1,0 +1,20 @@
+---
+title: "Coding for Actuaries"
+author: Programming for Actuarial Work Working Party
+date: August 23, 2018
+output: revealjs::revealjs_presentation
+---
+
+# Why coding is important for the insurance industry
+
+## Subslide
+
+- Point 1
+- Point 2
+
+# What does a modern coding environment look like
+
+- Point 1
+- Point 2
+
+# How to get there
